@@ -1,0 +1,50 @@
+body {
+    background-color: rgb(48, 43, 43);
+}
+
+h1 {
+    color: green;
+    font-family:monospace;
+}
+
+h2 {
+    color: white;
+    font-family:monospace;
+}
+
+h3 {
+    color: white;
+    font-family:monospace;
+}
+
+p {
+    font-family:monospace;
+}
+
+.input {
+    margin-left: 45px;
+    border: 2px solid black;
+    color: green;
+}
+
+div {
+    margin-left: 40px;
+    margin-top: 20px;
+    color: green;
+    font-family:monospace;
+}
+
+#button {
+    margin-left: 15%;
+    margin-top: 20px;
+    color: black;
+    border: 3px solid black;
+    font-family:monospace;
+}
+
+#suc {
+    color: white;
+    margin-top: 25px;
+    margin-left: 25px;
+    font-family:monospace;
+}
